@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/varun-dhanda">
+  <a href="https://github.com/Varundhanda">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   
@@ -137,8 +137,7 @@
 ### 🛠 Tech Stack
 `React.js` `Next.js` `CSS` `REST APIs`
 
-🔗 GitHub Repo: https://github.com/varun-dhanda  
-🌐 Live Demo: Coming Soon
+🔗 https://professional.bookaneyedoctor.co.uk/login  
 
 ---
 
@@ -155,8 +154,7 @@
 ### 🛠 Tech Stack
 `Next.js` `CSS` `API Integration`
 
-🔗 GitHub Repo: https://github.com/varun-dhanda  
-🌐 Live Demo: Coming Soon
+🔗 https://postdrop.io/
 
 ---
 
@@ -173,26 +171,46 @@
 ### 🛠 Tech Stack
 `Next.js` `CSS` `API Integration`
 
-🔗 GitHub Repo: https://github.com/varun-dhanda  
-🌐 Live Demo: Coming Soon
+🔗 https://pharmazing.ai/
 
 ---
 
-## 🏢 Company Management System
+# 🌍 Portfolio
 
 <div align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=06b6d4"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Modern%20UI%20Developer-06b6d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React%20%7C%20Next.js-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend%20Engineer-0ea5e9?style=for-the-badge"/>
+
 </div>
 
-🔹 Dashboard & user management system  
-🔹 Optimized UI performance  
-🔹 Dynamic layouts and scalable architecture  
+---
 
-### 🛠 Tech Stack
-`Next.js` `React.js` `APIs`
+### 🔗 Live Portfolio
 
-🔗 GitHub Repo: https://github.com/varun-dhanda  
-🌐 Live Demo: Coming Soon
+🚀 Explore my latest projects, frontend experiments, UI/UX work, and modern web applications:
+
+👉 **Portfolio Website:**  
+[https://your-portfolio-link.com](https://varun-dhanda.netlify.app/)
+
+### ✨ What You'll Find
+- Modern React & Next.js Projects
+- Interactive UI Components
+- Responsive Web Applications
+- Performance Optimized Interfaces
+- Creative Frontend Experiments
+- Real-world Client Work
+
+### 🛠 Built With
+`Next.js` `React.js` `Tailwind CSS` `TypeScript` `Vercel`
 
 ---
 
@@ -209,8 +227,7 @@
 ### 🛠 Tech Stack
 `HTML` `CSS` `JavaScript` `Canvas`
 
-🔗 GitHub Repo: https://github.com/varun-dhanda  
-🌐 Live Demo: Coming Soon
+🔗 https://vespergaming-baf42.web.app/
 
 ---
 
@@ -218,11 +235,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varun-dhanda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varundhanda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-dhanda&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varundhanda&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varun-dhanda&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varundhanda&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -232,7 +249,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=varun-dhanda&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Varundhanda&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -242,7 +259,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varun-dhanda&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varundhanda&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -263,7 +280,7 @@
 
 <div align="center">
 
-<a href="https://github.com/varun-dhanda">
+<a href="https://github.com/Varundhanda">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
@@ -275,12 +292,8 @@
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-<a href="#">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="55"/>
-</a>
-
-<a href="#">
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969327.png" width="55"/>
+<a href="[https://your-portfolio-link.com](https://varun-dhanda.netlify.app/)">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
