@@ -175,42 +175,65 @@
 
 ---
 
-# 🌍 Portfolio
+# 🌍 Portfolio Showcase
 
 <div align="center">
 
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=06b6d4"/>
+<a href="https://varun-dhanda.netlify.app/" target="_blank">
+  <img 
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+    width="900"
+    alt="Portfolio Preview"
+  />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Modern%20UI%20Developer-06b6d4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React%20%7C%20Next.js-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Frontend%20Engineer-0ea5e9?style=for-the-badge"/>
+<h3>
+✨ Crafting modern, scalable & visually stunning web experiences
+</h3>
+
+<br/>
+
+<a href="https://varun-dhanda.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/varun-dhanda" target="_blank">
+  <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/React.js-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 
 </div>
 
 ---
 
-### 🔗 Live Portfolio
+### 🚀 About My Portfolio
 
-🚀 Explore my latest projects, frontend experiments, UI/UX work, and modern web applications:
+A modern developer portfolio showcasing production-ready frontend applications, UI/UX experiments, responsive interfaces, and scalable React & Next.js projects.
 
-👉 **Portfolio Website:**  
-[https://your-portfolio-link.com](https://varun-dhanda.netlify.app/)
+### ✨ Highlights
 
-### ✨ What You'll Find
-- Modern React & Next.js Projects
-- Interactive UI Components
-- Responsive Web Applications
-- Performance Optimized Interfaces
-- Creative Frontend Experiments
-- Real-world Client Work
+- Modern dark UI aesthetic
+- Responsive & mobile-first layouts
+- Interactive animations & smooth UX
+- Optimized frontend performance
+- Real-world production projects
+- Clean scalable architecture
 
-### 🛠 Built With
-`Next.js` `React.js` `Tailwind CSS` `TypeScript` `Vercel`
+---
+
+### 🔗 Visit Portfolio
+
+👉 https://varun-dhanda.netlify.app/
 
 ---
 
