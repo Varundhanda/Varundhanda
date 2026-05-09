@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varun-dhanda&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/varun-dhanda?label=Followers&style=for-the-badge&color=7c3aed" />
-  <img src="https://img.shields.io/github/stars/varun-dhanda?label=Stars&style=for-the-badge&color=06b6d4" />
-</p>
-
-<p align="center">
   <a href="https://github.com/varun-dhanda">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
