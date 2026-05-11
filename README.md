@@ -179,7 +179,7 @@
 
 <div align="center">
 
-<a href="https://Varundhanda.netlify.app/" target="_blank">
+<a href="https://varun-dhanda.netlify.app/" target="_blank">
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
     width="900"
@@ -196,7 +196,7 @@
 
 <br/>
 
-<a href="https://Varundhanda.netlify.app/" target="_blank">
+<a href="https://varun-dhanda.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -233,7 +233,7 @@ A modern developer portfolio showcasing production-ready frontend applications, 
 
 ### 🔗 Visit Portfolio
 
-👉 https://Varundhanda.netlify.app/
+👉 https://varun-dhanda.netlify.app/
 
 ---
 
@@ -315,7 +315,7 @@ A modern developer portfolio showcasing production-ready frontend applications, 
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-<a href="[https://your-portfolio-link.com](https://Varundhanda.netlify.app/)">
+<a href="[https://your-portfolio-link.com](https://varun-dhanda.netlify.app/)">
 <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
